@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ed5f2a0f-3025-40bf-9b05-f0222c0cab94" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../Java-univ/Data_base/Data_base.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-univ/Data_base_new_my/Data_base_new_my.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-univ/ETS-Yaniv/ETS-Yaniv.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-univ/Gerold_Shild/Gerold_Shild.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-univ/Laba-1/Laba-1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-univ/Laba-3/Laba-3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-univ/Laba-4/Laba-4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-univ/Laba-5/Laba-5.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-univ/Laba-6/Laba-6.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-univ/Laba-7/Laba-7.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-univ/Laba_3/Laba_3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-univ/Laba_3/src/Laba_3/AbstractBinarySearchTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-univ/Laba_3/src/Laba_3/BinarySearchTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-univ/Laba_3/src/Laba_3/DemoBynariSearch/AbstractBinarySearchTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-univ/Laba_3/src/Laba_3/DemoBynariSearch/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-univ/Laba_3/src/Laba_3/DemoBynariSearch/myBinaryTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-univ/Laba_3/src/Laba_3/DemoBynaryTree/AbstractBinaryTreee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-univ/Laba_3/src/Laba_3/DemoBynaryTree/BinaryTreee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-univ/Laba_3/src/Laba_3/DemoBynaryTree/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-univ/Laba_3/src/Laba_3/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-univ/Univ/Univ.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-univ/Univ/src/Laba_12/practic/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-univ/Yaric/Yaric.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-univ/cursovaya/cursovaya.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-univ/cursovaya/src/GPT_2/Navigator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-univ/cursovaya/src/GPT_2/Route.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-univ/cursovaya/src/GPT_4/MyList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-univ/cursovaya/src/GPT_4/Navigator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-univ/cursovaya/src/GPT_4/NavigatorImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-univ/cursovaya/src/GPT_4/Route.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-univ/cursovaya/src/My/Navigator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-univ/cursovaya/src/My/Route.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-univ/git-univ/git-univ.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-univ/github-univ/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-univ/github-univ/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-univ/github-univ/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-univ/github-univ/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-univ/github-univ/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-univ/github-univ/git2-univ" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-univ/github-univ/github-univ.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-univ/github-univ/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-univ/glava-5/glava-5.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-univ/glava-6/glava-6.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-univ/laba-2/laba-2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-univ/my-lab-psql/src/main/java/mongodb/demo/mylabpsql/service/CategoryService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-univ/my-lab-psql/src/main/java/mongodb/demo/mylabpsql/service/ProductService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-univ/my-lab-psql/src/main/java/mongodb/demo/mylabpsql/service/SellerService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-univ/my-lab-psql/src/main/java/mongodb/demo/mylabpsql/service/ShopService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-univ/my-lab-psql/src/main/java/mongodb/demo/mylabpsql/service/TownService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-univ/myFirstSpringPrj/src/main/java/mongodb/demo/myfirstspringprj/service/BookService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-univ/unknow/unknow.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-univ/untitled/untitled.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-univ/untitled1/untitled1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python-univ/.idea/Python-univ.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Spring/blog/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Spring/blog/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Spring/blog/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Spring/blog/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Spring/blog/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Spring/blog/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Spring/blog/src/main/java/com/firstSpringPrj/blog/BlogSpringApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Spring/blog/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Spring/blog/src/test/java/com/firstSpringPrj/blog/BlogSpringApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../University/git-lab-8/Chess_Consol_Game" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../University/git-lab-8/Laboratory6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../University/git-lab-8/code_review_work" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../University/git-lab-8/uselessfile.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../metanit/Program/Program.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../metanit/ProjectNew/ProjectNew.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../metanit/laba/laba.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../metanit/second/second.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../metanit/working/working.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/nestjs-server" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="30CAtb19lgtsSPm5mcD0HzOTmu6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "/Users/sergey/Documents/Программирование/back-end/fullstack-auth",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "ts.external.directory.path": "/Users/sergey/Documents/Программирование/back-end/fullstack-auth/nestjs-server/node_modules/typescript/lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-f27c65a3e318-JavaScript-WS-251.23774.424" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ed5f2a0f-3025-40bf-9b05-f0222c0cab94" name="Changes" comment="" />
+      <created>1753121396578</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1753121396578</updated>
+      <workItem from="1753121397715" duration="2504000" />
+      <workItem from="1753173631332" duration="4700000" />
+      <workItem from="1753179584255" duration="10441000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
