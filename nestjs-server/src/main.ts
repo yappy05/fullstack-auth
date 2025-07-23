@@ -2,10 +2,11 @@ import {NestFactory} from '@nestjs/core';
 import {AppModule} from './app.module';
 
 import {ConfigService} from '@nestjs/config'
-import * as cookieParser from 'cookie-parser'
+import cookieParser from 'cookie-parser'
 import {ValidationPipe} from "@nestjs/common";
 import IORedis from 'ioredis'
-import * as session from 'express-session'
+import * as sessionNS from 'express-session';
+const session = (sessionNS as any).default || sessionNS;
 import {ms, StringValue} from "@/libs/common/utils/ms.utils";
 import {parseBoolean} from "@/libs/common/utils/parse-boolean.utils";
 import { RedisStore } from 'connect-redis'

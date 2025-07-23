@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed5f2a0f-3025-40bf-9b05-f0222c0cab94" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Java-univ/Data_base/Data_base.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Java-univ/Data_base_new_my/Data_base_new_my.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Java-univ/ETS-Yaniv/ETS-Yaniv.iml" beforeDir="false" />
@@ -77,6 +78,7 @@
       <change beforePath="$PROJECT_DIR$/../../../metanit/laba/laba.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../metanit/second/second.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../metanit/working/working.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,7 +130,7 @@
       <updated>1753121396578</updated>
       <workItem from="1753121397715" duration="2504000" />
       <workItem from="1753173631332" duration="4700000" />
-      <workItem from="1753179584255" duration="10441000" />
+      <workItem from="1753179584255" duration="17788000" />
     </task>
     <servers />
   </component>
