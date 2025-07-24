@@ -31,7 +31,6 @@ export class UserService {
                 accounts: true,
             }
         })
-        if (!user) throw new NotFoundException('пользователь не найден. Пожалуйста, проверьте введеные данные.')
         return user
     }
 

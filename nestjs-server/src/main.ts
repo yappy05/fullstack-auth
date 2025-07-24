@@ -9,7 +9,7 @@ import * as sessionNS from 'express-session';
 const session = (sessionNS as any).default || sessionNS;
 import {ms, StringValue} from "@/libs/common/utils/ms.utils";
 import {parseBoolean} from "@/libs/common/utils/parse-boolean.utils";
-import { RedisStore } from 'connect-redis'
+import RedisStore from 'connect-redis'
 
 async function bootstrap() {
     const app = await NestFactory.create(AppModule);
@@ -28,7 +28,7 @@ async function bootstrap() {
 
     app.enableCors({
         origin: config.getOrThrow<string>('ALLOWED_ORIGIN'),
-        credential: true,
+        credentials: true,
         exposedHeaders: ['set-cookie']
     })
 
